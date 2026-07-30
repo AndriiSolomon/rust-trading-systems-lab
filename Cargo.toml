@@ -1,0 +1,11 @@
+[package]
+name = "rust-trading-systems-lab"
+version = "0.1.0"
+edition = "2021"
+authors = ["Andrii Soloviov"]
+description = "Safe Rust examples for trading-system state management, risk limits, reconciliation, and testing."
+repository = "https://github.com/AndriiSolomon/rust-trading-systems-lab"
+readme = "README.md"
+publish = false
+
+[dependencies]
